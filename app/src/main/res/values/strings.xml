@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FileStorage</string>
+    <string name="name">NAME</string>
+    <string name="email">EMAIL</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="password">PASSWORD</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="country">COUNTRY</string>
+    <string name="state">STATE</string>
+    <string name="submit">SUBMIT</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="name_1">NAME</string>
+    <string name="tamana">tamana</string>
+    <string name="email_1">EMAIL</string>
+    <string name="chauhantamanna001_gmail_com">chauhantamanna001_gmail_com</string>
+    <string name="password_1">PASSWORD</string>
+    <string name="helloworld">helloworld</string>
+    <string name="country_1">COUNTRY</string>
+    <string name="india_1">india</string>
+    <string name="state_1">STATE</string>
+    <string name="harayana">harayana</string>
+</resources>
