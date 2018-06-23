@@ -113,7 +113,7 @@ public class MainActivity extends AppCompatActivity {
                 userState = State.getSelectedItem().toString();
 
 
-                String FullDetail = "NAME:" + userName + "\n" + "EMAIL:" + userEmail + "\n" + "Password:" + userPwd + "\n" + "COUNTRY:" + userCountry +"\n" + "STATE" + userState;
+                String FullDetail = "       USERDETAILS"+"\n"+"\n"+"NAME:  " + userName + "\n" + "EMAIL:  " + userEmail + "\n" + "Password:  " + userPwd + "\n" + "COUNTRY:  " + userCountry +"\n" + "STATE:  " + userState;
 
                 FileOutputStream fos;
 

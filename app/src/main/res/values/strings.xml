@@ -19,4 +19,6 @@
     <string name="india_1">india</string>
     <string name="state_1">STATE</string>
     <string name="harayana">harayana</string>
+    <string name="read">Read</string>
+    <string name="click_to_read_data">CLICK TO READ DATA</string>
 </resources>
